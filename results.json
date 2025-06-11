@@ -1,0 +1,7 @@
+{
+  "original_accuracy": 0.5555555820465088,
+  "augmented_accuracy": 0.761904776096344,
+  "improvement": 0.2063491940498352,
+  "original_samples": 88,
+  "augmented_samples": 208
+}
